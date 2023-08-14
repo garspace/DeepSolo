@@ -1,3 +1,9 @@
+
+###icdar数据格式转换
+https://github.com/yizt/abcnet_custom_dataset
+### 训练数据报错
+解决：batch_size设为1，大于1报错
+
 <h1 align="center">DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting</h1> 
 
 <p align="center">
